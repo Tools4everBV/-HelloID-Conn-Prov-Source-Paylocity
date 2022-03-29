@@ -1,0 +1,67 @@
+[
+  {
+    "key": "BaseURI",
+    "type": "input",
+    "defaultValue": "https://api.paylocity.com/IdentityServer",
+    "templateOptions": {
+      "label": "URL",
+      "required": true
+    }
+  },
+  {
+    "key": "TokenURI",
+    "type": "input",
+    "defaultValue": "/connect/token",
+    "templateOptions": {
+      "label": "Token URI",
+      "required": true
+    }
+  },
+  {
+    "key": "ClientKey",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client Key",
+      "required": true
+    }
+  },
+  {
+    "key": "ClientSecret",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client Secret",
+      "type": "password",
+      "placeholder": "Please enter a password",
+      "required": false
+    }
+  },
+  {
+    "key": "PageSize",
+    "type": "input",
+    "defaultValue": "500",
+    "templateOptions": {
+      "label": "Page Size",
+      "required": true
+    }
+  },
+  {
+    "key": "Scope",
+    "type": "input",
+    "defaultValue": "WebLinkAPI",
+    "templateOptions": {
+      "label": "Scope",
+      "required": true
+    }
+  },
+  {
+    "key": "CompanyID",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Company ID",
+      "required": true
+    }
+  }
+]
