@@ -26,7 +26,7 @@ By using this connector you will have the ability to import data into HelloID:
 * Cost Center Codes
 
 ## Requirements
-- API Credentials
+- API Credentials (https://docs.paylocity.com/weblink/guides/Paylocity_Web_Services_API/Paylocity_Web_Services_API.htm)
 
 
 ## Setup the PowerShell connector
