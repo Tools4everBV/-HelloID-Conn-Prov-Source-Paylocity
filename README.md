@@ -8,7 +8,7 @@ Paylocity - Source
 <br />
 
 <p align="center">
-  <img src="Assets/Logo.jpg">
+  <img src="Assets/Logo.png">
 </p>
 HelloID Provisioning Source Connector for Paylocity
 
