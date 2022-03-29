@@ -35,3 +35,7 @@ By using this connector you will have the ability to import data into HelloID:
     - [ ] configuration.json
     - [ ] persons.ps1
     - [ ] departments.ps1
+
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
